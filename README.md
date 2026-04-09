@@ -1,10 +1,10 @@
 Instalar los requerimietnos de python 
-  streamlit
-  numpy
-  pandas
-  scikit-learn
-  smbus2
-  joblib
+  (streamlit,
+  numpy,
+  pandas,
+  scikit-learn,
+  smbus2,
+  joblib)
 
 Se utilizo raspberry pi 4 
 con thonny
